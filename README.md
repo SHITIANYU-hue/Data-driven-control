@@ -1,6 +1,6 @@
 # Data-driven-control
 
-code for :"A Data Driven Method of Optimizing Feedforward Compensator for Autonomous Vehicle Control"
+Code for :"A Data Driven Method of Optimizing Feedforward Compensator for Autonomous Vehicle Control"
 
 If you find it is beneficial , please cite:
 
